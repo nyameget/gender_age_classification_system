@@ -8,9 +8,7 @@ Table of Contents
 3. Installation
 4. Usage
 5. Project Structure
-6. Contributing
-7. License
-8. Contact
+6. Contact
 
 Introduction
 
@@ -108,14 +106,6 @@ gender-age-classification_system/
 10. README.md: This README file.
 11. requirements.txt: Lists the Python dependencies.
 12. run.py: The entry point to run the Flask application.
-
-Contributing
-
-We welcome contributions! Please read our CONTRIBUTING.md for guidelines on how to contribute to this project.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
 
